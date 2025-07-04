@@ -1,0 +1,22 @@
+Laiba Azhar laibaazhar987@gmail.com --> ORG
+03205723007 --> DATE
+Abbottabad --> PERSON
+Pakistan --> GPE
+Ms PowerPoint
+Government --> ORG
+no.1 --> PRODUCT
+3.76/4 --> CARDINAL
+Courses Time --> ORG
+Pakistan --> GPE
+Eviews --> ORG
+2018 - 2020 --> DATE
+680 --> CARDINAL
+2021 --> DATE
+Matric --> PERSON
+Jeddah --> GPE
+2016 - 2018 --> DATE
+912 --> CARDINAL
+English --> NORP
+The Impact of Disruptive Technologies --> WORK_OF_ART
+Pakistan --> GPE
+2020 - 2023 --> DATE
